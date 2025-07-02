@@ -1,0 +1,16 @@
+{
+  "name": "analise-remuneracao-ati",
+  "version": "1.0.0",
+  "description": "Dashboard para análise de remuneração de ATIs",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}

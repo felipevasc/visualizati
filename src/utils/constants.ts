@@ -1,0 +1,5 @@
+export const URL_ESTRUTURA_ORGANIZACIONAL_RESUMIDA = (codUnidade: number) => `https://estruturaorganizacional.dados.gov.br/doc/estrutura-organizacional/completa?codigoPoder=1&codigoEsfera=1&codigoUnidade=${codUnidade}&retornarOrgaoEntidadeVinculados=SIM`
+
+export const URL_CONSULTA_UNIDADE = (codUnidade: number) => `https://estruturaorganizacional.dados.gov.br/doc/instancias/consulta-unidade?codigoUnidade=${codUnidade}`
+
+export const URL_SERVIDORES_ATI = () => `https://portaldatransparencia.gov.br/servidores/consulta/resultado?paginacaoSimples=true&tamanhoPagina=800&offset=0&direcaoOrdenacao=asc&colunaOrdenacao=nome&cargo=ANALISTA+EM+TECNOL+DA+INFORMACAO&colunasSelecionadas=detalhar%2Ctipo%2Ccpf%2Cnome%2CorgaoServidorLotacao%2Cmatricula%2Csituacao%2Cfuncao%2Ccargo%2Cquantidade&t=KmyUhhcHB12s9jx0mtMy&_=1751334998241`

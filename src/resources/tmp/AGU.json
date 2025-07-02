@@ -1,0 +1,244 @@
+[
+    {
+        "cargos": [
+            {
+                "qtd": 0
+            }
+        ],
+        "sigla": "AGU",
+        "nome": "Advocacia-Geral da União",
+        "codigoUnidade": "46",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MEC",
+        "nome": "Ministério da Educação",
+        "codigoUnidade": "244",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MRE",
+        "nome": "Ministério das Relações Exteriores",
+        "codigoUnidade": "263",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MS",
+        "nome": "Ministério da Saúde",
+        "codigoUnidade": "304",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MMA",
+        "nome": "Ministério do Meio Ambiente e Mudança do Clima",
+        "codigoUnidade": "1927",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "CC-PR",
+        "nome": "Casa Civil da Presidência da República",
+        "codigoUnidade": "2837",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MME",
+        "nome": "Ministério de Minas e Energia",
+        "codigoUnidade": "2852",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MD",
+        "nome": "Ministério da Defesa",
+        "codigoUnidade": "41066",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MTur",
+        "nome": "Ministério do Turismo",
+        "codigoUnidade": "72084",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "CGU",
+        "nome": "Controladoria-Geral da União",
+        "codigoUnidade": "214460",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MJSP",
+        "nome": "Ministério da Justiça e Segurança Pública",
+        "codigoUnidade": "235881",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MCOM",
+        "nome": "Ministério das Comunicações",
+        "codigoUnidade": "264359",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MCTI",
+        "nome": "Ministério da Ciência, Tecnologia e Inovação",
+        "codigoUnidade": "267175",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MAPA",
+        "nome": "Ministério da Agricultura e Pecuária",
+        "codigoUnidade": "308793",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MDA",
+        "nome": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+        "codigoUnidade": "308794",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MPA",
+        "nome": "Ministério da Pesca e Aquicultura",
+        "codigoUnidade": "308795",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MDS",
+        "nome": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+        "codigoUnidade": "308796",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MESP",
+        "nome": "Ministério do Esporte",
+        "codigoUnidade": "308797",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MCID",
+        "nome": "Ministério das Cidades",
+        "codigoUnidade": "308798",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MIDR",
+        "nome": "Ministério da Integração e do Desenvolvimento Regional",
+        "codigoUnidade": "308799",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MF",
+        "nome": "Ministério da Fazenda",
+        "codigoUnidade": "308800",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MGI",
+        "nome": "Ministério da Gestão e da Inovação em Serviços Públicos",
+        "codigoUnidade": "308803",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MPO",
+        "nome": "Ministério do Planejamento e Orçamento",
+        "codigoUnidade": "308804",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MDIC",
+        "nome": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços",
+        "codigoUnidade": "308814",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MMULHERES",
+        "nome": "Ministério das Mulheres",
+        "codigoUnidade": "308815",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MDHC",
+        "nome": "Ministério dos Direitos Humanos e da Cidadania",
+        "codigoUnidade": "308816",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MPOR",
+        "nome": "Ministério de Portos e Aeroportos",
+        "codigoUnidade": "308817",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MT",
+        "nome": "Ministério dos Transportes",
+        "codigoUnidade": "308818",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MPS",
+        "nome": "Ministério da Previdência Social",
+        "codigoUnidade": "308819",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MTE",
+        "nome": "Ministério do Trabalho e Emprego",
+        "codigoUnidade": "308820",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MinC",
+        "nome": "Ministério da Cultura",
+        "codigoUnidade": "308821",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MIR",
+        "nome": "Ministério da Igualdade Racial",
+        "codigoUnidade": "308823",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MPI",
+        "nome": "Ministério dos Povos Indígenas",
+        "codigoUnidade": "308824",
+        "codigoTipoUnidade": "orgao"
+    },
+    {
+        "cargos": [],
+        "sigla": "MEMP",
+        "nome": "Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte",
+        "codigoUnidade": "330683",
+        "codigoTipoUnidade": "orgao"
+    }
+]
