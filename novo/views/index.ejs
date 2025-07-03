@@ -223,6 +223,8 @@
                                                                                 <th>Ingresso Cargo</th>
                                                                                 <th>Ingresso Órgão</th>
                                                                                 <th class="text-end">Salário</th>
+                                                                                <th class="text-end">Excedente</th>
+                                                                                <th class="text-end">Possível</th>
                                                                             </tr>
                                                                         </thead>
                                                                         <tbody>
@@ -234,6 +236,25 @@
                                                                                 <td><%= servidor.DATA_INGRESSO_CARGOFUNCAO %></td>
                                                                                 <td><%= servidor.DATA_INGRESSO_ORGAO %></td>
                                                                                 <td class="text-end fw-medium"><%= formatarMoeda(servidor.remuneracaoBruta) %></td>
+                                                                                <td class="text-end fw-medium"><%= formatarMoeda(servidor.remuneracaoBruta - tabelaATI[`${servidor.CLASSE_CARGO}-${servidor.PADRAO_CARGO}`]) %></td>
+                                                                                <td class="text-end fw-medium text-success">
+                                                                                    <% 
+                                                                                        const x = servidor.remuneracaoBruta - tabelaATI[`${servidor.CLASSE_CARGO}-${servidor.PADRAO_CARGO}`];
+                                                                                        let possivel = "sem função";
+                                                                                        const found = Object.keys(tabelaFCE).find(k => Math.trunc(tabelaFCE[k]) == Math.trunc(x));
+                                                                                        if (found !== undefined) {
+                                                                                            possivel = found;
+                                                                                        } else {
+                                                                                            for (let i = 0; i < Object.keys(tabelaFCE).length; i++) {
+                                                                                                if (tabelaFCE[Object.keys(tabelaFCE)[i]] < x) {
+                                                                                                    possivel = `~${Object.keys(tabelaFCE)[i]}`;
+                                                                                                    break;
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    %>
+                                                                                    <%= possivel %>
+                                                                                </td>
                                                                             </tr>
                                                                             <% }); %>
                                                                         </tbody>
